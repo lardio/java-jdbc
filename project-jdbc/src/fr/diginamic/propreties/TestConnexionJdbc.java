@@ -7,7 +7,7 @@ import java.util.ResourceBundle;
 
 import org.mariadb.jdbc.Driver;
 
-public class TestConnection {
+public class TestConnexionJdbc {
 
 	public static void main(String[] args) {
 		
